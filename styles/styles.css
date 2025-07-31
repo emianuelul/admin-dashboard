@@ -1,0 +1,25 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  grid-template-rows: 1fr 4fr;
+  grid-template-areas: "sidebar header" "sidebar main";
+  min-height: 100vh;
+
+  text-align: center;
+  font-size: 3rem;
+}
+
+.main {
+  grid-area: main;
+  background-color: purple;
+}
+
+.header {
+  grid-area: header;
+  background-color: aqua;
+}
+
+.sidebar {
+  grid-area: sidebar;
+  background-color: hotpink;
+}
