@@ -8,6 +8,10 @@
   text-align: center;
 }
 
+img {
+  width: 15%;
+}
+
 .main {
   grid-area: main;
   background-color: purple;
