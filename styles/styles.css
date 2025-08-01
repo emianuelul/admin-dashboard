@@ -240,6 +240,7 @@ input[type="search"]::-webkit-search-results-decoration {
 .acc-det .pfp {
   grid-row: 1 / 3;
   width: 124px;
+  flex-shrink: 0;
 }
 
 .buttons {
