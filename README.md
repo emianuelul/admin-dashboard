@@ -5,3 +5,5 @@ Project to show what I learned from the Intermediate HTML & CSS course from The 
 ![image](./finished-product.png)
 
 This is what it's supposed to look like. I tried to stick to it as much as I could. I changed some stuff, mainly making stuff appear larger but it's mainly the same.
+
+You can check how my site turned out inside the deployments tab.
